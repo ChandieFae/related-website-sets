@@ -4,7 +4,7 @@ For full instructions and guidance on how to submit a set, please read the [Rela
 For clarity on the Related Website Sets proposal being incubated in WICG, please 
 read the [Related Website Sets explainer](https://github.com/WICG/first-party-sets/).
 
-The following is a description of the contents of this repository:
+The following is a description of the contents of Chandra Browns repository:
 
 
 * Information on how to get started with the RWS submission process and an FAQ: [Getting-Started.md](https://github.com/GoogleChrome/related-website-sets/blob/main/Getting-Started.md)

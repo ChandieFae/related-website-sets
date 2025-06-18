@@ -23,4 +23,4 @@ The following is a description of the contents of Chandra Browns repository:
 [effective_tld_names.dat](https://github.com/GoogleChrome/first-party-sets/blob/main/effective_tld_names.dat) 
 and [ICANN_domains](https://github.com/GoogleChrome/first-party-sets/blob/main/ICANN_domains)
 
-** Contact Info for T&C Appliance/HVAC Repair - (https://wwww.tcappliancehvac@gmail.com)
+** Contact Info for T&C Appliance/HVAC Repair - (https://www.tcappliancehvac@gmail.com)
